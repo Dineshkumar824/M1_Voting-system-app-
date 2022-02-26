@@ -18,7 +18,7 @@ int vote_Count1 = 0,
 void castVote(){
 
     int choice;
-    printf("\n \n <#> <#> <#> <#> Please chooose your Candidate <#> <#> <#> <#> \n \n");
+    printf("\n \n  Please chooose your Candidate  \n \n");
     printf("\n 1. %s", party_no_1);
     printf("\n 2. %s", party_no_2);
     printf("\n 3. %s", party_no_3);
