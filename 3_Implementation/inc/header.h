@@ -8,3 +8,26 @@
 #define party_no_2 "B" 
 #define party_no_3 "C" 
 #define party_no_4 "D"
+
+void castvote()
+/**  
+case1:
+break;
+case2:
+break; */
+  
+void votescount()
+/**
+printf("party_no_1");
+*/
+  
+void getLeadingCandidate()
+/**
+if(Votecount2>votecount1&&votecount1>vote3)
+
+*/
+  
+#endif
+
+ 
+ 
